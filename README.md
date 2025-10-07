@@ -1,4 +1,4 @@
-# PIPE-L4DC
+# PIPE: Physics-Informed Probability Estimator
 
 An implementation of the paper "Generalizable Physics-Informed Learning for
 Stochastic Safety-Critical Systems", in IEEE Transaction on Automatic Control (TAC). Short version at the 5th Learning for Decision and Control (L4DC) Conference, 2023.
