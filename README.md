@@ -5,7 +5,7 @@ Stochastic Safety-Critical Systems", in IEEE Transaction on Automatic Control (T
 
 
 
-![overview](/Users/jacobwang/Desktop/Git Repos/PIPE-L4DC/figures/overview.png)
+![overview](figures/overview.png)
 
 
 
